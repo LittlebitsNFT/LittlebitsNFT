@@ -1,4 +1,4 @@
-Official LittlebitsNFT repositories.
+Official LittlebitsNFT repository.
 
 An NFT community on the MultiVac and Polygon blockchains. 
 
