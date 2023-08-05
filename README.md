@@ -1,5 +1,5 @@
-Official LittlebitsNFT repository.
+Official LittlebitsNFT repositories.
 
-An NFT community on the MultiVac blockchain. 
+An NFT community on the MultiVac and Polygon blockchains. 
 
 littlebits.club
